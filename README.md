@@ -33,8 +33,7 @@ Localização Terrena:
 📍 Fatec Marília
 📜 Licença: Conhecimento Livre
 
-✉️ Contato Arcano: joao.cardia@fatec.sp.gov.br
-
+✉️ Contato Arcano: erick.neves2@fatec.sp.gov.br
 🙌 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir *issues* ou enviar *pull requests*.
 
