@@ -16,6 +16,9 @@
 
 └── *.html # Crônicas Épicas
 
+📸 Vislumbre do Portal: ![Captura de tela 2025-04-29 063442](https://github.com/user-attachments/assets/28fe44ea-5771-4ab9-ab7a-fe84b35b04c6)
+
+
 **Tesouros Incluídos:**
 - 🏆 Duelo com Conan (força vs sabedoria)
 - 💃 Dança Cósmica com Asdrubal
