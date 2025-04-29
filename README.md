@@ -5,12 +5,15 @@
 **Estrutura Mágica:**
 
 📂 raiz/
+
 ├── css/ # Encantamentos Visuais
 
 ├── image/ # Retratos das Batalhas
 
 ├── index.html # Portal Inicial
+
 ├── aulas.html # Sabedoria em Parábolas
+
 └── *.html # Crônicas Épicas
 
 **Tesouros Incluídos:**
