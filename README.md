@@ -1,4 +1,4 @@
-# � O Grande Site do Professor Ximira
+# O Grande Site do Professor Ximira
 
 ## 🌠 Sábio Digital | Guardião do Conhecimento | Mestre dos Códigos Arcanos
 
